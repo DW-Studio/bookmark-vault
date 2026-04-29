@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# SQLite 本地数据库
+/data/*.db
+/data/*.db-shm
+/data/*.db-wal
+
+# 数据文件
+data.json
+data2.json
+*.log
+
+# IDE 配置
+AGENTS.md
+CLAUDE.md
