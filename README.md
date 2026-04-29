@@ -2,7 +2,7 @@
 
 > 因为 X 账户被冻结，所以写了这个工具。永远把你的网页内容掌握在自己手里。
 
-[![GitHub license](https://img.shields.io/github/license/DW-Studio/bookmark-vault)](https://github.com/DW-Studio/bookmark-vault/blob/main/LICENSE)
+![License](https://img.shields.io/github/license/DW-Studio/bookmark-vault)
 
 一个优雅的网页快照书签工具，使用 Jina Reader 抓取网页正文并保存到本地 SQLite 数据库。再也不用担心链接失效、账户被封或内容删除。
 
